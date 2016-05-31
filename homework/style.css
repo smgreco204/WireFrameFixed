@@ -1,0 +1,130 @@
+body {
+  background-color: #777;
+  }
+
+h1 {
+	background-color: #ebebeb;
+    border-width: 495px; 
+   	text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color: #777;
+	padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h2 {
+	background-color: #ebebeb;
+    border-width: 495px; 
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color: #777;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h3 {
+	background-color: #ebebeb;
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color: #777;
+    position: relative;
+    display: block;
+    height: 247px;
+    width: 460px;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+aside {
+    background-color: #ebebeb;
+    border-width: 495px; 
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color: #777;
+    display: inline-block;
+    vertical-align:top
+    height: 247px;
+    width: 460px;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h4 {
+	background-color: #777;
+    height: 230px;
+    width: 450px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color: #ebebeb;
+    position: absolute;
+         margin: auto; 
+         width: 25%;
+         height: 25%;
+         left: 25%;
+         top: 25%;
+}
+
+h5 {
+	background-color: #ebebeb;
+    border-width: 495px; 
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color: #777;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+h6 {
+	background-color: #ebebeb;
+    border-width: 495px; 
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    color: #777;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+
+
